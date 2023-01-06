@@ -16,11 +16,11 @@
 	"devDependencies": {
 		"cross-env": "^5.2.0",
 		"react-hot-loader": "^4.3.12",
-		"react-scripts": "^1.1.5"
+		"react-scripts": "^5.0.1"
 	},
 	"dependencies": {
 		"@vkontakte/icons": "^1.2.1",
-		"@vkontakte/vkui": "^2.13.0",
+		"@vkontakte/vkui": "^2.34.1",
 		"@vkontakte/vkui-connect": "^1.1.2",
 		"core-js": "^2.5.7",
 		"gh-pages": "^2.0.1",
